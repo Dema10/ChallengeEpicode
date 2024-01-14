@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> La pagina del Dema! </title>
+</head>
+<body>
+    <center>
+        <div>
+            <font size= " 6; " >
+                <h1 style= "color: red" > La mia presentazione </h1>
+            </font>
+            
+        </div>
+
+    <img src=" https://scontent.fcia1-2.fna.fbcdn.net/v/t1.18169-9/14021625_10207446908157952_6782768593988878729_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=be3454&_nc_ohc=0YCiBA6BgNcAX8gmVYI&_nc_ht=scontent.fcia1-2.fna&oh=00_AfD5iIuLO5qctDTR6MO37_5r9sHBSV9xgteCmLAVJTZg6Q&oe=65C9F654 "
+    style= " width: 200px; "
+    alt= " Gabriele De Matteis foto "
+    />
+    </center>
+    <br>
+    <p>
+        <font size= " 5; ">
+            Salve ragazzi/e, mi presento mi chiamo Gabriele De Matteis ho 28 anni e sono di un paesino in provincia
+            di lecce in puglia, il 22 Gennaio 2024 faro parte della classe di web developer fullstack part time.
+            Non è la prima esperienza con la programmazione ma finita scuola sono stato lontano da questo mondo per 11 anni
+            era doveroso fare questo corso per una possibilità di fare il programmatore nella mia vita.
+        </font>
+    </p>
+    <br>
+    <center>
+        <font size="6;">
+            <h2 style= " color: red " > I miei hobbie! </h2>
+        </font>
+    </center>
+    <font size="5;">
+        <ul>
+            <li>Homebrewere <img src="https://data.polsinelli.it/imgprodotto/homebrewing-kit-halo-35_6167_list.jpg" style="width: 60px;" alt="Foto Homebrewer" /></li>
+            <li>Calcio <img src="https://cdn.calciomercato.com/images/2016-06/maldini.alza.champions.2003.1400x840.jpg" style="width: 70px;" alt="Foto Calcio" /></li>
+            <li>Manga e Anime <img src="https://lh3.googleusercontent.com/Ryg5ih-fOWbpEGDpbJYJz5RTq3_28Tvo2h3JQRCdiz16lw5ghitDMN6hcWA57g0d6_8VOqQYcCemRBOfZGQA64ZKkFOn71zuF1LDsXwCh4ywF-_z6VqxbBqmbQvK_-PWfZcztxDd1WDTEEUHX6GdP60" 
+                style="width: 80px;" alt="Foto Manga e Anime"/></li>
+            <li>Gaming <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeAQDB6qt7IuWqPLTgpC2PoJceHnmE1K4GzIlzCGPGccRFZJlkvDv6KFOnZnworClF4is&usqp=CAU" 
+                style="width: 60px;" alt="Foto Gaming"/></li>
+        </ul>
+    </font>
+    <div style="background-color: black;">
+        <center style="color: antiquewhite;">
+            <font size="6;">
+                <h3 style= " color: red " >Contatti</h3>
+            </font>
+            <font size="5;">
+                <a href="https://www.instagram.com/gabrieledematteis/">
+                    <img src="https://1000logos.net/wp-content/uploads/2017/02/ig-logo.png"
+                    style="width: 200px;"
+                    alt="Profilo instagram" />
+                </a>
+                <a href="https://www.threads.net/@gabrieledematteis">
+                    <img src="https://toppng.com/uploads/preview/instagram-threads-logo-icon-png-with-white-threads-text-11688944494fypqy1u86r.png"
+                    style="width: 200px;"
+                    alt="Profilo threads" />
+                </a>
+                <a href="https://www.facebook.com/gabriele.dematteis.5">
+                     <img src="https://i.pinimg.com/originals/71/01/d5/7101d598cb5156e5670771476183ae8f.png"
+                    style="width: 150px;"
+                    alt="Profilo facebook" />
+                </a>
+                <br>
+                <a href="https://www.twitch.tv/dema95">
+                    <img src="https://w7.pngwing.com/pngs/968/223/png-transparent-logo-twitch-logos-brands-icon-thumbnail.png"
+                    style="width: 60px;"
+                    alt="Profilo twitch" />
+                </a>
+                <a href="https://www.youtube.com/channel/UCbcEc2pxXKIG53YsRJm9dYg">
+                    <img src="https://themayanagari.com/wp-content/uploads/2021/01/2-28.jpg"
+                    style="width: 60px;"
+                    alt="Profilo youtube" />
+                </a>
+                <br>
+                <p>
+                    Email: gabrieledematteis@me.com - Cellulare: 333.8303256
+                </p>
+            </font>
+        </center>
+    </div>
+</body>
+</html>
