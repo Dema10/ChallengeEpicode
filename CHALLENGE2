@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music streaming</title>
+</head>
+<body style="background-color: black;">
+    <center>
+        <font size="4" style="color: greenyellow;">
+            <h1> BENVENUTI NEL PIU' VASTO CATALOGO DI MUSICA STREAMING!</h1>
+        </font>
+    </center>
+    <h2 style="color: plum"> REGGISTRATI PER ACCEDERE AL CATALOGO!</h2>
+    <form onsubmit="alert('Registrazzione inviata!')" style="color: greenyellow;">
+        <font size="5">
+            <div>
+                <text>Nome</text>
+                <input type="text" placeholder="Inserisci Nome"/>
+            </div>
+            <br>
+            <div>
+                <text>Cognome</text>
+                <input type="text" placeholder="Inserisci Cognome"/>
+            </div>
+            <br>
+            <div>
+                <text>Email</text>
+                <input type="email" placeholder="Inserisci Email"/>
+            </div>
+            <br>
+            <div>
+                <text>Password</text>
+                <input type="password" placeholder="Inserisci Password"/>
+            </div>
+            <br>
+            <div>
+                <text>Conferma Password</text>
+                <input type="password" placeholder="Inserisci Password"/>
+            </div>
+            <br>
+            <div>
+                <text>Data di Nascita</text>
+                <input type="date" placeholder="Inserisci Data"/>
+            </div>
+            <br>
+            <div>
+                <text>Numero di telefono</text>
+                <input type="number" placeholder="Inserisci Cellulare"/>
+            </div>
+            <br>
+            <h3 style="color: plum">Per una lista consigliati su misura ci aiuti a capire i suoi gusti</h3>
+            <div>
+                <input type="checkbox" style="width: 50px; height: 50px;"/>
+                <img src="https://i0.wp.com/www.sabra.org.br/site/wp-content/uploads/2020/11/musica-pop-entenda-como-esse-estilo-surgiu-20200904142853.jpg.jpg?fit=800%2C448&ssl=1"
+                    style="width: 130px;"
+                    alt="Pop Music"/>
+            </div>
+            <br>
+            <div>
+                <input type="checkbox" style="width: 50px; height: 50px;"/>
+                <img src="https://w7.pngwing.com/pngs/413/472/png-transparent-gangsta-rap-rapper-hip-hop-music-hiphop-text-label-logo.png"
+                    style="width: 130px;"
+                    alt="Rap/hip hop Music"/>
+            </div>
+            <br>
+            <div>
+                <input type="checkbox" style="width: 50px; height: 50px;"/>
+                <img src="https://www.altobrembo.it/wp-content/uploads/2020/10/rock.jpg"
+                    style="width: 130px;"
+                    alt="rock Music"/>
+            </div>
+            <br>
+            <div>
+                <input type="checkbox" style="width: 50px; height: 50px;"/>
+                <img src="https://www.musicdance.it/LOGHI/Logo-MUSIC-DANCE.png"
+                    style="width: 130px;"
+                    alt="dance Music"/>
+            </div>
+            <br>
+            <div>
+                <input type="checkbox" style="width: 50px; height: 50px;"/>
+                <img src="https://files.eportfolios.macaulay.cuny.edu/wp-content/uploads/sites/5035/2015/04/16070259/Rastareggae.png"
+                    style="width: 130px;"
+                    alt="electro Reggae"/>
+            </div>
+            <br>
+            <div>
+                 <h3 style="color: plum">Prima di completare la registrazione accettare i termini e le condizioni.</h3>
+                 <input type="radio" /> TERMINI E CONDIZIONI
+            </div>
+            <br>
+            <text style="color: plum;">
+              <center>
+                 "LA VITA SENZA MUSICA E' SEMPLICEMENTE UN ERRORE, UNA FATICA, UN ESILIO." Friedrich Nietzsche
+              </center>
+            </text>
+            <br>
+            <div>
+                <center>
+                    <button type="submit" style="height: 50px; color: black;">
+                        INVIA REGISTRAZIONE
+                    </button>
+                </center>
+            </div>
+        </font>
+    </form>
+</body>
+</html>
